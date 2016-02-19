@@ -1,0 +1,39 @@
+yellow
+efe070
+
+lt blue
+687ced
+
+dkblue
+242d8d
+
+###
+Garue
+336699
+HEX
+51,102,153
+RGB
+
+Dim Peach
+FFCC66
+HEX
+255,204,102
+RGB
+
+WTKR Grey
+A8B1B8
+HEX
+168,177,184
+RGB
+
+Black
+000000
+HEX
+0,0,0
+RGB
+
+gunshy
+C9E2E9
+HEX
+201,226,233
+RGB
